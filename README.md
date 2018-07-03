@@ -8,7 +8,7 @@
 >SDK min: 19  
 >API: Yahoo Weather  
 
-####Maneiras de executar o App:####
+### Maneiras de executar o App: ###
 
 1. Baixe o apk clicando [**AQUI**](https://drive.google.com/file/d/1AdSzI2AWRvBL-ia-qKGWssyok0JcUF-H/view?usp=sharing), e instale em um dispositivo Android.
 
@@ -21,7 +21,7 @@ Abra o Android Studio vai em **VCS > Checkout from Version Control > GitHub**, c
 em seguida mande executar em um dispositivo físico ou em um emulador.
 
 
-####Como o App funciona:####
+### Como o App funciona: ###
 
 1. Ao iniciar o App a primeira vez vem uma solicitação de permissão para que o app tenha acesso a localização do dispositivo. Esta localização é obtida por um metodo, onde pega a *Latitude* e a *Longitude* do dispositivo atras da classe *Location*.
 
