@@ -42,7 +42,7 @@ public class WeatherActivity extends AppCompatActivity {
         String cityAndRegion = weatherResult.getCity() + " - " + weatherResult.getRegion();
         tvCity.setText(cityAndRegion);
 
-        String temp = weatherResult.getTemp() + "°C";
+        String temp = weatherResult.getTemp() + " °C";
         tvTemp.setText(temp);
         tvCondition.setText(weatherResult.getCondition());
 
