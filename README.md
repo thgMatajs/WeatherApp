@@ -1,5 +1,3 @@
-# Teste para oportunidade Desenvolvedor Android Jr. (TruckPad) #
-
 ### Projeto executado: App que mostra o clima conforme a localização do dispositivo ###
 
 >IDE utilizada: Android Studio 3.1.3  
